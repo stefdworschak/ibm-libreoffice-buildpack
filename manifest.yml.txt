@@ -1,4 +1,0 @@
----
-sudo: false
-language: java
-command: bundle exec rake VERBOSE=true
